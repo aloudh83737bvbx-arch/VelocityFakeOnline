@@ -33,6 +33,10 @@ fakeOnline:
 
 (По желанию) настрой config.yml под себя
 
+# Требования: Velocity 3.1.1 и выше
+
+
+
 
 # VelocityFakeOnline EN
 
@@ -85,3 +89,5 @@ Place it in the plugins/ folder of your Velocity proxy
 Start or restart the proxy
 
 (Optional) Edit plugins/fakeonline/config.yml to fine-tune the behaviour
+
+# Requirements: Velocity 3.1.1 and above
