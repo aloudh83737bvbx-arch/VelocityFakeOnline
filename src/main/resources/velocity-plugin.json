@@ -1,0 +1,8 @@
+{
+  "id": "fakeonline",
+  "name": "FakeOnline",
+  "version": "1.0.0",
+  "description": "Динамический фейковый онлайн с плавающим количеством",
+  "authors": ["Saturn"],
+  "main": "saturn.fakeonline.Main"
+}

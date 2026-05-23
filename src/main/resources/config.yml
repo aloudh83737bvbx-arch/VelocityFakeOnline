@@ -1,0 +1,6 @@
+fakeOnline:
+  count: 7
+  slots: 20
+  min-fake: 3
+  max-fake: 12
+  update-interval: 5
